@@ -1,6 +1,7 @@
 import random
 
 print('ceci est ub test')
+print("Nouvelle ligne")
 
 class game:
     def __init__(self, vie, nb_vie):
