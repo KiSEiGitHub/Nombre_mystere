@@ -1,7 +1,6 @@
 import random
 
 
-
 class game:
     def __init__(self, vie, nb_vie):
         self.user = ''
